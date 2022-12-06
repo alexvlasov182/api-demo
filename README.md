@@ -1,4 +1,4 @@
-# RESTful API with Ruby On Rails 5
+# RESTful API with Ruby On Rails 7 Ruby 3.1.3
 ## This is a project come from my Rails API course
 ### Things this course covers:
 - Build own authentication system
