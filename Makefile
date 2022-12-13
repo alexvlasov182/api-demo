@@ -7,8 +7,8 @@ down: #Stop
 ps:
 	docker ps
 
-connect_ruby:
-	docker exec -it  bash
+ruby:
+	docker exec -it b29c4e8188c9 bash
 
-connect_db:
+db:
 	docker exec -it  bash
